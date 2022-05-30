@@ -1,7 +1,5 @@
 ## BELLA'S CIT MINOR PAGE! 
 
-<img src="https://clipart.world/wp-content/uploads/2021/04/Old-Computer-clipart-transparent.png" width="125" height="100">
-
 
 ### CIT 281 LABS
 
@@ -57,3 +55,4 @@ Gain experience creating and working classes with inheritance, gain more experie
 **[Project 7:](https://pages.github.com/)**
 Gain more experience working with GitHub repos, working with GitHub Pages, and creating an initial CIT Minor portfolio for labs and projects.
 
+<img src="https://clipart.world/wp-content/uploads/2021/04/Old-Computer-clipart-transparent.png" width="125" height="100">
