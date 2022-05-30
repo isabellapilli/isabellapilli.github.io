@@ -1,37 +1,57 @@
-## Welcome to GitHub Pages
+## BELLA'S CIT MINOR PAGE!
 
-You can use the [editor on GitHub](https://github.com/isabellapilli/isabellapilli.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### CIT 281 LABS
 
-### Markdown
+**[Lab 1:](https://pages.github.com/)**
+Install and setup your personal computer with the software tools required for the course.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+**[Lab 2:](https://pages.github.com/)**
+Use CLI commands for directory, file manipulation, and git commands.
 
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+**[Lab 3:](https://pages.github.com/)**
+Practice refactoring JavaScript code to use more modern syntax, destructuring an object, and more.
 
-- Bulleted
-- List
+**[Lab 4:](https://pages.github.com/)**
+Create initial Fastify Node.js web server.
 
-1. Numbered
-2. List
+**[Lab 5:](https://pages.github.com/)**
+Learning to use Postman.
 
-**Bold** and _Italic_ and `Code` text
+**[Lab 6:](https://pages.github.com/)**
+Learning to use GitHub.
 
-[Link](url) and ![Image](src)
-```
+**[Lab 7:](https://pages.github.com/)**
+Create your own GitHub organization for the CIT Minor.
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+**[Lab 8:](https://pages.github.com/)**
+Learning node-fetch. 
 
-### Jekyll Themes
+**[Lab 9:](https://pages.github.com/)**
+Creating a released based workflow on GitHub.
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/isabellapilli/isabellapilli.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
-### Support or Contact
+### CIT 281 PROJECTS
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+**[Project 1:](https://pages.github.com/)**
+Gain experience working with CLI, VSCode, and writing and executing non-web server Node.js JavaScript code.
+
+**[Project 2:](https://pages.github.com/)**
+Gain experience using git via your CLI and Visual Studio Code (VSCode) Source Control and practice refactoring JavaScript code.
+
+**[Project 3:](https://pages.github.com/)**
+Gain experience interpreting functional descriptions and specifications to complete an assignment, using Fastify with the GET verb, routes, and query parameters, and more.
+
+**[Project 4:](https://pages.github.com/)**
+Gain experience writing and executing Node.js REST API server using VSCode, using Fastify with the GET verb, routes, and route parameters, using Postman to test web server routes, working with JSON, and more.
+
+**[Project 5:](https://pages.github.com/)**
+Gain experience working with classes, including class constructors and methods, executing and debugging Node.js code using VSCode, including module breakpoints, working with Array map() and forEach() methods, and more.
+
+**[Project 6:](https://pages.github.com/)**
+Gain experience creating and working classes with inheritance, gain more experience using a generic block of code to process data, gain more experience interpreting functional descriptions and specifications to complete an assignment, and more.
+
+**[Project 7:](https://pages.github.com/)**
+Gain more experience working with GitHub repos, working with GitHub Pages, and creating an initial CIT Minor portfolio for labs and projects.
+
