@@ -1,4 +1,4 @@
-## BELLA'S CIT MINOR PAGE!
+## BELLA'S CIT MINOR PAGE! ![Computer](computer.png)
 
 
 ### CIT 281 LABS
