@@ -3,10 +3,10 @@
 
 ### CIT 281 LABS
 
-**[Lab 1:]([https://pages.github.com/](https://github.com/isabellapilli/isabellapilli.github.io/edit/main/README.md))**
+**[Lab 1:](https://isabellapilli.github.io/cit281-lab01/)**
 Install and setup your personal computer with the software tools required for the course.
 
-**[Lab 2:](https://pages.github.com/)**
+**[Lab 2:](https://isabellapilli.github.io/cit281-lab02/)**
 Use CLI commands for directory, file manipulation, and git commands.
 
 
