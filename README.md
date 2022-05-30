@@ -1,4 +1,4 @@
-## BELLA'S CIT MINOR PAGE! ![Computer](computer.png width=50% height=50%)
+## BELLA'S CIT MINOR PAGE! <img src="https://clipart.world/wp-content/uploads/2021/04/Old-Computer-clipart-transparent.png" width="150" height="280">
 
 
 ### CIT 281 LABS
