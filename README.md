@@ -1,4 +1,4 @@
-## BELLA'S CIT MINOR PAGE! ![Computer](computer.png=250x250)
+## BELLA'S CIT MINOR PAGE! ![Computer](computer.png width=50% height=50%)
 
 
 ### CIT 281 LABS
