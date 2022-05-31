@@ -10,7 +10,7 @@ Install and setup your personal computer with the software tools required for th
 Use CLI commands for directory, file manipulation, and git commands.
 
 
-**[Lab 3:](https://isabellapilli.github.io/cit281-lab03/))**
+**[Lab 3:](https://isabellapilli.github.io/cit281-lab03/)**
 Practice refactoring JavaScript code to use more modern syntax, destructuring an object, and more.
 
 **[Lab 4:](https://isabellapilli.github.io/cit281-lab04/)**
